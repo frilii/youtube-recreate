@@ -1,0 +1,77 @@
+
+.topo{
+    width: 100%;   
+    padding: 12px 20px;
+}
+
+.topo--left{
+    float: left;
+}
+
+.icone--left{
+    float: left;
+}
+
+.image--left{
+    bottom: 32px;
+    width: 100%;
+    max-width: 120px;
+    position: relative;
+}
+
+.topo--center{
+    width: 100%;
+}
+
+.search--topo{
+    padding: 8px 10px;
+    width: 100%;
+    max-width: 500px;
+    bottom: 5px;
+    margin-left: 500px;
+    position: relative;
+    float: left;
+    outline-color: rgba(0, 0, 255, 0.829);  
+}
+
+.button--search{
+    padding: 8px 25px;
+    bottom: 5px;
+    position: relative;
+    float: left;
+    color: gray;
+
+}
+
+.mic--search--topo{
+    position: relative;
+    padding: 2px;
+    float: left;
+    margin-left: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+.topo--right{
+    float: right;
+    font-size: 20px;
+    padding: 8px 3%;
+    
+}
+
+.camera--right{
+    position: relative;
+    top: -5px;
+}
+
+.bell--right{
+    position: relative;
+    margin-left: 19px;
+    top: -5px;
+}
+
+.user--right{
+    position: relative;
+    margin-left: 19px;
+    top: -5px;
+}
